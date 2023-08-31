@@ -4,6 +4,5 @@
 
 • Se crea un excel con el texto de cada linea del mensaje y el No. de WhatsApp.
 
-|Celular|Mensaje|
-|+923192858|Hello World |
-  
+|celular|mensaje|
+|+5894524|Hello World|
